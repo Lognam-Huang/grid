@@ -34,7 +34,7 @@
 #### Interviewee 2
 |          1 score | Model 1 |        Model 2         |   Model 3   | Model 4 |     Model 5      |    Model 6    | 5 score          |
 | ---------------: | :-----: | :--------------------: | :---------: | :-----: | :--------------: | :-----------: | :--------------- |
-| FamilyExperience |         |                        |             |         |                  |               | DriveExperience  |
+| FamilyExperience |    4    |                        |             |         |                  |               | DriveExperience  |
 |  RideComfortable |         |                        |             |         |                  |               | DriveComfortable |
 |  ClassicInterior |         |                        |             |         |                  |               | TechInterior     |
 | ValuePreservable |         |                        |             |         |                  |               | HighTurnover     |
